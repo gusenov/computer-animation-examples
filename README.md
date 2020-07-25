@@ -1,3 +1,4 @@
 - [Pixar in a Box](pixar/pixar-in-a-box)
 - [Линейная интерполяция](interpolation/linear)
 - [Уравнение с угловым коэффициентом прямой](khanacademy/algebra/slope-intercept form)
+- [Кругообразное движение](circular-motion)
